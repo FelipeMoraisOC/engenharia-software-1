@@ -1,0 +1,101 @@
+order_id,customer_name,delivery_address,delivery_city,delivery_postal_code,order_date,order_time,order_total,delivery_status,payment_method,driver_name,driver_rating
+1,Gerry Bartlomiejczyk,14042 Larry Pass,Jiufeng,,1/10/2022,9:36 PM,972.74,delivered,online payment,Rodney Benoy,3
+2,Robin Tassel,898 Erie Park,Shisui,285-0927,1/19/2022,8:40 PM,631.52,pending,online payment,Charlie Highnam,3
+3,Gabriello Camerana,975 Calypso Point,Kuanping,,7/3/2022,7:47 PM,546.51,delivered,online payment,Erica Twiname,2
+4,Guthrey Lamberth,0765 Shoshone Pass,Tochigi,697-1201,11/23/2022,11:45 AM,627.03,in transit,online payment,Toby Domleo,2
+5,Rad Ocklin,910 Lien Center,Lamatuka,,6/7/2022,8:34 AM,166.43,pending,online payment,Camilla O'Scandall,5
+6,Aleen Millimoe,41 Forster Hill,Pliwetan,,8/10/2022,6:16 PM,231.25,pending,credit card,Dorian Chiommienti,4
+7,Glennie Jullian,99 Hanson Junction,Stockholm,162 87,12/8/2022,4:25 AM,914.81,pending,credit card,Oswell Cliss,4
+8,Tildy Blazejewski,333 Hagan Point,Logovskoye,671633,8/2/2022,12:57 AM,848.36,in transit,online payment,Worth Rivett,4
+9,Percival Kaasmann,507 Spenser Street,Navegantes,88375-000,9/28/2022,2:42 AM,670.28,in transit,cash on delivery,Bald Habert,5
+10,John Southall,6129 Loomis Place,Budakovo,,9/5/2022,7:16 PM,51.78,in transit,cash on delivery,Manuel Espina,2
+11,Buiron Collinette,2 Green Ridge Plaza,Giesteira,4950-830,12/22/2022,8:51 AM,176.73,delivered,cash on delivery,Baillie Amsberger,5
+12,Abbe Ruppele,64462 Commercial Drive,Oelui,,9/8/2022,12:00 PM,921.01,in transit,online payment,Adelind Kilby,2
+13,Sherlock Mabbot,08759 South Trail,Jarry,97199 CEDEX,9/5/2022,10:02 AM,228.01,delivered,credit card,Cirstoforo Pavy,5
+14,Igor Chanter,065 Pleasure Junction,Agustín Codazzi,202058,11/29/2022,7:32 PM,62.27,in transit,credit card,Randie Wane,3
+15,Rikki Minster,90 Trailsway Street,Putrajaya,62150,5/30/2022,6:38 AM,795.84,delivered,credit card,Major Cossom,2
+16,Tamera Janecki,89 Fordem Pass,Jinchang,,1/25/2022,3:18 AM,568.78,in transit,online payment,Michelina Marsland,2
+17,Lorrin Heathcoat,48497 Corben Crossing,Kangping,,2/23/2022,6:02 AM,816.08,pending,online payment,Yoko Diament,1
+18,Craig Diddams,388 Tennessee Road,Juan Adrián,11506,12/10/2022,11:47 AM,296.33,in transit,credit card,Lyndsay Hynard,4
+19,Sarene Hamlen,657 Gale Court,Indulang,9417,2/27/2022,1:24 PM,119.73,in transit,cash on delivery,Noby Cusworth,5
+20,Ansley Vaughten,8097 Rusk Junction,Cibenda,,7/6/2022,4:26 AM,842.17,delivered,credit card,Angele Levy,4
+21,Gratia Lorking,86602 Duke Hill,Shushary,196626,2/28/2022,9:37 PM,720.04,delivered,credit card,Tani Snoad,5
+22,Rochester Fetherston,2629 Forest Dale Park,Liutangting,,3/30/2022,10:11 AM,35.36,in transit,credit card,Sioux Giannini,4
+23,Aldo Fones,32047 Basil Crossing,Wiang Chiang Rung,57210,10/18/2022,12:17 AM,869.39,delivered,credit card,Phedra McBay,2
+24,Elena Niland,162 Dixon Alley,Bordeaux,33080 CEDEX,11/30/2022,9:55 PM,707.06,delivered,cash on delivery,Had Comelini,1
+25,Filmore Gaunt,03 Coleman Way,Medvedok,613451,10/28/2022,6:53 PM,185.23,delivered,online payment,Corny Cornu,2
+26,Gael Faudrie,038 7th Plaza,Condega,,6/23/2022,10:55 PM,608.68,in transit,online payment,Linnell Accomb,5
+27,Marita Cisneros,68 Hooker Pass,Sishilichengzi,,11/15/2022,8:36 PM,437.43,pending,credit card,Neddy Hynde,1
+28,Harris Ownsworth,15899 Fulton Crossing,San José de Colinas,,6/24/2022,12:01 PM,654.93,pending,cash on delivery,Gaby Hutchens,1
+29,Isis Ingles,1617 Parkside Alley,Novo-Peredelkino,143015,11/28/2022,4:07 PM,553.75,delivered,cash on delivery,Chickie de Glanville,5
+30,Idelle Cossentine,7 Susan Terrace,Huantuo,,5/27/2022,5:03 AM,743.26,pending,credit card,Murdock Cookman,3
+31,Blithe Martinelli,769 Heffernan Park,Sredno Konjare,1060,11/1/2022,1:04 AM,299.56,in transit,cash on delivery,Herbert Ohm,1
+32,Benedikt Dobkin,5 Jenifer Trail,Avesta,774 24,6/30/2022,10:09 PM,172.27,in transit,cash on delivery,Rosene Tomich,2
+33,Carin Buss,1 Tennyson Circle,Chisec,18006,8/11/2022,11:46 AM,908.41,in transit,online payment,Allissa Dary,5
+34,Rinaldo Just,01736 Hoepker Circle,Peace River,T8S,3/28/2022,4:47 AM,616.9,in transit,online payment,Nicko Baskerville,4
+35,Gilles Kendle,86 Mitchell Center,Estância,49200-000,1/24/2022,1:45 AM,341.94,pending,credit card,Joane Stucksbury,4
+36,Loutitia Piner,42 Cordelia Avenue,Changlu,,5/6/2022,5:28 PM,288.85,delivered,online payment,Josee MacDirmid,2
+37,Heloise Kemet,2 Sunfield Plaza,Parobé,95630-000,6/13/2022,1:01 AM,909.0,pending,credit card,Heida Drife,4
+38,Gus Stratford,60215 Jackson Parkway,Qīr Moāv,,12/20/2022,3:50 AM,654.91,pending,cash on delivery,Coleen Youster,5
+39,Penny Denzilow,00502 Grasskamp Center,Ondoy,5607,9/9/2022,8:47 AM,73.86,delivered,online payment,Sherline Gribbins,3
+40,Amory Hearns,77 Forest Drive,Besuk Selatan,,3/6/2022,11:45 AM,493.61,in transit,credit card,Auroora Baversor,3
+41,Gert Seczyk,50 Monument Road,Mandōl,,6/20/2022,6:54 AM,365.79,in transit,credit card,Rodge Boyack,5
+42,Lurline Quilliam,9 Coolidge Point,Eláteia,,2/1/2022,3:24 PM,499.93,pending,cash on delivery,Stefan Maus,2
+43,Falito Flatley,86119 Montana Drive,Tohautu,,3/20/2022,10:25 AM,247.21,in transit,cash on delivery,Granthem O'Corr,5
+44,Junina O'Hegertie,52406 East Circle,Richard-Toll,,11/28/2022,1:56 AM,612.66,in transit,cash on delivery,Baird MacTrustram,4
+45,Cody Galfour,38040 New Castle Trail,Huaping,,8/9/2022,6:46 PM,450.91,delivered,cash on delivery,Jerad Filtness,4
+46,Elyn Tappin,8468 Scofield Terrace,San Francisco,41600,5/23/2022,4:05 AM,387.97,in transit,cash on delivery,Nelly Giannini,1
+47,Pennie Fomichyov,12465 Twin Pines Pass,Oklahoma City,73179,4/24/2022,6:11 AM,212.09,pending,cash on delivery,Elmer Anthiftle,2
+48,Dara Young,586 Warner Circle,Oro Timur,,10/13/2022,6:46 AM,332.53,in transit,cash on delivery,Oralia Bundock,4
+49,Kerwinn McIan,5616 American Ash Alley,Kanthararom,33130,5/26/2022,4:14 AM,215.55,delivered,credit card,Hillard Coggles,2
+50,Aurthur Duquesnay,760 Mcbride Parkway,Carrières-sur-Seine,78424 CEDEX,12/1/2022,7:00 PM,151.11,pending,credit card,Jennifer Meltetal,5
+51,Bernelle Hoolaghan,5 Northfield Junction,Huji,,5/12/2022,5:58 PM,296.87,pending,cash on delivery,Mildred Craigs,1
+52,Chaddy Issacov,71726 Little Fleur Terrace,Muting,,1/29/2022,4:46 PM,958.33,pending,online payment,Kelly Brennand,2
+53,Ali Hairsine,019 Florence Trail,Narail,5260,4/19/2022,5:08 AM,33.16,pending,online payment,Rickard Cawsey,2
+54,Annalise Ashby,530 Boyd Hill,Hadano,259-1335,11/9/2022,12:46 AM,675.85,in transit,online payment,Annora Gethins,5
+55,Jillie McClay,6274 Forest Street,Sanya,,6/24/2022,6:27 PM,676.09,pending,credit card,Henri Neicho,4
+56,Brandy Frantzen,0607 Morningstar Crossing,Azaruja,7005-104,12/19/2022,4:57 PM,84.34,pending,online payment,Leonardo Novic,2
+57,Cornela Bennallck,5 Continental Lane,Pinar del Río,,11/3/2022,8:18 AM,164.95,delivered,online payment,Lorrin Fettes,3
+58,Jayme O'Hengerty,003 Buell Trail,Shihuajian,,8/27/2022,7:05 AM,724.6,pending,online payment,Isador Le Borgne,2
+59,Olenka Aleksankov,0 Express Street,Hengshan,,7/6/2022,9:00 AM,707.87,pending,credit card,Giselbert Wilshere,2
+60,Rozalin Gibke,19167 Gulseth Crossing,Dasht-e Lati,,12/26/2022,11:20 PM,297.44,in transit,cash on delivery,Nan Crossfeld,4
+61,Gill Tuffell,75463 Carberry Terrace,Sauce,,1/5/2022,7:14 PM,791.47,in transit,online payment,Verile Renzullo,3
+62,Lita Jewitt,640 Kingsford Trail,Bamako,,1/6/2022,7:27 PM,865.69,pending,credit card,Magdalena Leyban,4
+63,Mitchell Brankley,0813 Washington Point,Tambakbaya,,7/7/2022,3:41 PM,99.1,in transit,online payment,Alano Cregeen,3
+64,Vinnie Conew,5 Brickson Park Court,Pajić Polje,,1/16/2022,12:14 AM,995.67,in transit,credit card,Granville Pawlick,1
+65,Guss Ericsson,96082 Briar Crest Terrace,Boudinar,,1/25/2022,8:59 AM,316.75,in transit,online payment,Erina McIlwain,5
+66,Rodrick Dignan,45667 Anzinger Point,Qiujia,,3/5/2022,5:45 AM,81.62,delivered,online payment,Coralyn McGinly,1
+67,Rayshell Dumphy,98 Waywood Trail,Quế Sơn,,5/17/2022,5:58 PM,686.66,in transit,cash on delivery,Jeramey Timmins,1
+68,Earlie Poulsen,498 Jenna Road,Yuwang,,4/2/2022,9:37 AM,543.18,delivered,credit card,Kory Kempster,4
+69,Geoffrey Sellan,7218 Raven Trail,Novi Itebej,,1/29/2022,11:25 PM,138.2,delivered,cash on delivery,Patty Trevains,2
+70,Samuel Kaine,5 Ruskin Parkway,Březová,747 44,6/6/2022,3:48 AM,840.03,delivered,cash on delivery,Sallyann Twohig,3
+71,Flynn Golly,3 Twin Pines Avenue,Shakhun’ya,606912,9/16/2022,9:56 AM,311.32,in transit,credit card,Leilah Castagnier,1
+72,Hanson Stirley,433 Westend Street,Mazowe,,6/21/2022,11:57 AM,454.17,in transit,credit card,Pam Plaschke,5
+73,Dallon Benet,15 Lerdahl Way,Petäjävesi,41901,2/14/2022,9:03 AM,360.38,in transit,online payment,Cull Watt,3
+74,Sianna Jacmard,5705 Ridgeview Park,Bungur,,7/11/2022,3:29 AM,755.23,in transit,credit card,Inna Proudley,4
+75,Eveline Heijne,1890 Sunfield Terrace,Kafr Sawm,,10/12/2022,11:38 PM,264.96,in transit,cash on delivery,Cecil Vockins,3
+76,Fraze Carey,90899 High Crossing Court,Urachiche,,9/22/2022,11:06 AM,461.27,delivered,cash on delivery,Aurora Pimm,3
+77,Sibeal Bealton,61 Miller Lane,Peishe,,10/3/2022,3:05 AM,197.87,in transit,online payment,Tom Draye,3
+78,Ruddy Verryan,61 Bartillon Junction,Emiliano Zapata,51355,11/29/2022,6:11 AM,328.97,pending,credit card,Wadsworth De Courtney,3
+79,Mavis Peche,59742 Saint Paul Crossing,San Antonio,735538,1/17/2022,1:13 AM,579.18,pending,online payment,Ricki Fromant,1
+80,Conn Hemphall,4203 Buena Vista Place,Tbêng Méanchey,,3/5/2022,7:54 PM,322.86,pending,cash on delivery,Briny Ferriman,5
+81,Adrienne Claque,5 Spaight Junction,Hetoudian,,11/22/2022,4:35 AM,79.06,in transit,online payment,Giorgio Jallin,2
+82,Dev Dillintone,4726 Killdeer Park,Huangtan,,12/28/2022,4:58 PM,57.51,in transit,online payment,Wilbert Goulstone,4
+83,Anita Sibbert,2 Clarendon Lane,Cikalong,,8/22/2022,7:20 PM,312.28,delivered,credit card,Stillmann Saye,1
+84,Birgitta Christaeas,9417 Graedel Hill,Quxia,,3/15/2022,8:54 AM,90.47,in transit,cash on delivery,Andris O'Hara,5
+85,Oswald Bosence,896 Union Street,Krajan,,9/16/2022,5:34 PM,896.62,delivered,credit card,Joceline Farmer,4
+86,Candie Hards,59 Main Drive,Tanggu,,4/11/2022,7:52 AM,957.36,in transit,credit card,Bird Chisholme,4
+87,Sergio Liven,5052 Lillian Road,Laḩij,,10/17/2022,12:07 PM,508.36,in transit,online payment,Ulrika Van Halen,2
+88,Shaughn Peaden,306 Atwood Alley,Lauro de Freitas,42700-000,1/27/2022,3:38 PM,16.28,in transit,credit card,Itch Petracek,3
+89,Edwin Standfield,4 Debs Circle,Mykolayiv,,6/15/2022,2:44 AM,58.55,delivered,credit card,Nicolais Vasilmanov,4
+90,Kristen Burbudge,98324 Westridge Avenue,Qinggis Han,,1/23/2022,10:54 PM,663.67,in transit,online payment,Ilene Josefs,1
+91,Modestia Rough,1755 Lawn Plaza,Lyon,69303 CEDEX 07,10/26/2022,6:12 PM,123.77,pending,cash on delivery,Esmeralda Plumb,1
+92,Onfroi Vinten,58498 Dahle Center,Ribeirão da Ilha,38530-000,3/28/2022,7:51 AM,243.65,in transit,cash on delivery,Karia Grieveson,2
+93,Lenee Vaulkhard,44 Merchant Avenue,Taifu,,12/5/2022,12:09 PM,363.84,pending,cash on delivery,Rutger Dunderdale,5
+94,Siward Reach,064 Merchant Place,Linhares,4620-620,11/8/2022,2:14 PM,789.39,delivered,cash on delivery,Andreana Stanford,3
+95,Dud Wegenen,6 Barby Place,Nicosia,,6/10/2022,11:33 AM,693.05,delivered,cash on delivery,Talyah Wyborn,1
+96,Price Bottle,03188 Meadow Vale Crossing,Gulonggang,,5/12/2022,9:05 PM,786.22,pending,credit card,Candie Banghe,2
+97,Barris Powis,6142 Duke Plaza,Lazaro Cardenas,87326,2/25/2022,12:20 AM,856.12,pending,online payment,Jacki McAlees,2
+98,Broddie McClymont,00 Spenser Parkway,Daba,,1/9/2022,11:37 AM,395.56,delivered,cash on delivery,Martino Selliman,4
+99,Chrystel Siderfin,206 Commercial Trail,Funan Chengguanzhen,,10/30/2022,8:42 AM,996.87,in transit,credit card,Tildie Willshire,5
+100,Felipa LaBastida,98428 Lighthouse Bay Court,Zliten,,9/1/2022,10:17 PM,263.59,delivered,online payment,Neala Klambt,2

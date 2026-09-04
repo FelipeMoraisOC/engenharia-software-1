@@ -1,0 +1,101 @@
+flight_number,airline_name,departure_airport,departure_city,arrival_airport,arrival_city
+AF7952,Air France,Charles de Gaulle,Paris,Frankfurt Airport,Frankfurt
+BA7701,British Airways,Heathrow,London,São Paulo/Guarulhos International,São Paulo
+QR6387,Qatar Airways,Hamad International,Doha,Bole International,Addis Ababa
+AC5992,Air Canada,Toronto Pearson,Toronto,John F. Kennedy International,New York
+WN2597,Southwest Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco
+BA1624,British Airways,Heathrow,London,Amsterdam Airport Schiphol,Amsterdam
+QR8006,Qatar Airways,Hamad International,Doha,Leonardo da Vinci International,Rome
+UA4854,United Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco
+AA5924,American Airlines,John F. Kennedy International,New York,Hartsfield-Jackson Atlanta,Atlanta
+QF3733,Qantas,Sydney Airport,Sydney,Melbourne Airport,Melbourne
+LA8505,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Ministro Pistarini International,Buenos Aires
+BA6286,British Airways,Heathrow,London,Munich Airport,Munich
+DL4343,Delta Air Lines,John F. Kennedy International,New York,Logan International,Boston
+AZ5112,Alitalia,Leonardo da Vinci International,Rome,Charles de Gaulle,Paris
+QR4567,Qatar Airways,Hamad International,Doha,Bole International,Addis Ababa
+LH7027,Lufthansa,Frankfurt Airport,Frankfurt,Amsterdam Airport Schiphol,Amsterdam
+SQ5679,Singapore Airlines,Changi,Singapore,Beijing Capital International,Beijing
+QR6930,Qatar Airways,Hamad International,Doha,Charles de Gaulle,Paris
+WN8883,Southwest Airlines,Los Angeles International,Los Angeles,Chhatrapati Shivaji International,Mumbai
+AM8660,Aeroméxico,Benito Juárez International,Mexico City,O'Hare International,Chicago
+KL4678,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Charles de Gaulle,Paris
+AM5743,Aeroméxico,Benito Juárez International,Mexico City,Jomo Kenyatta International,Nairobi
+EK2062,Emirates,Dubai International,Dubai,Hamad International,Doha
+SQ2561,Singapore Airlines,Changi,Singapore,Vancouver International,Vancouver
+KE5551,Korean Air,Incheon International,Seoul,Kuala Lumpur International,Kuala Lumpur
+SQ9336,Singapore Airlines,Changi,Singapore,Beijing Capital International,Beijing
+LH1697,Lufthansa,Frankfurt Airport,Frankfurt,Charles de Gaulle,Paris
+LA1461,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Ministro Pistarini International,Buenos Aires
+IB4174,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Charles de Gaulle,Paris
+KL3810,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Stockholm Arlanda,Stockholm
+AI1516,Air India,Indira Gandhi International,Delhi,Kuala Lumpur International,Kuala Lumpur
+CX1697,Cathay Pacific,Hong Kong International,Hong Kong,Suvarnabhumi,Bangkok
+DL7317,Delta Air Lines,John F. Kennedy International,New York,Hartsfield-Jackson Atlanta,Atlanta
+DL1787,Delta Air Lines,John F. Kennedy International,New York,Hartsfield-Jackson Atlanta,Atlanta
+AV2185,Avianca,El Dorado International,Bogotá,O'Hare International,Chicago
+KL2024,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Charles de Gaulle,Paris
+LA4492,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Ministro Pistarini International,Buenos Aires
+AC9854,Air Canada,Toronto Pearson,Toronto,John F. Kennedy International,New York
+CX9766,Cathay Pacific,Hong Kong International,Hong Kong,Changi,Singapore
+UA4725,United Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco
+LH8065,Lufthansa,Frankfurt Airport,Frankfurt,Charles de Gaulle,Paris
+SK2920,SAS Scandinavian,Copenhagen Airport,Copenhagen,Charles de Gaulle,Paris
+BA2815,British Airways,Heathrow,London,Munich Airport,Munich
+SK2434,SAS Scandinavian,Copenhagen Airport,Copenhagen,Charles de Gaulle,Paris
+NZ5604,Air New Zealand,Auckland Airport,Auckland,São Paulo/Guarulhos International,São Paulo
+AF4902,Air France,Charles de Gaulle,Paris,Frankfurt Airport,Frankfurt
+SQ5942,Singapore Airlines,Changi,Singapore,Brisbane Airport,Brisbane
+AC4014,Air Canada,Toronto Pearson,Toronto,Hartsfield-Jackson Atlanta,Atlanta
+SK2568,SAS Scandinavian,Copenhagen Airport,Copenhagen,Charles de Gaulle,Paris
+WN2436,Southwest Airlines,Los Angeles International,Los Angeles,O'Hare International,Chicago
+WN9905,Southwest Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco
+AZ4962,Alitalia,Leonardo da Vinci International,Rome,Charles de Gaulle,Paris
+NZ8224,Air New Zealand,Auckland Airport,Auckland,Sydney Airport,Sydney
+KL5381,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Frankfurt Airport,Frankfurt
+KE6004,Korean Air,Incheon International,Seoul,Hong Kong International,Hong Kong
+SA4862,South African Airways,O.R. Tambo International,Johannesburg,Zurich Airport,Zurich
+AV1487,Avianca,El Dorado International,Bogotá,O'Hare International,Chicago
+BA1520,British Airways,Heathrow,London,Charles de Gaulle,Paris
+TG3327,Thai Airways,Suvarnabhumi,Bangkok,Changi,Singapore
+DL9163,Delta Air Lines,John F. Kennedy International,New York,Hartsfield-Jackson Atlanta,Atlanta
+AI3823,Air India,Indira Gandhi International,Delhi,Chhatrapati Shivaji International,Mumbai
+KE7499,Korean Air,Incheon International,Seoul,Haneda,Tokyo
+TG8197,Thai Airways,Suvarnabhumi,Bangkok,Changi,Singapore
+DL7030,Delta Air Lines,John F. Kennedy International,New York,Hartsfield-Jackson Atlanta,Atlanta
+KE6371,Korean Air,Incheon International,Seoul,Haneda,Tokyo
+KL4860,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Charles de Gaulle,Paris
+EK1492,Emirates,Dubai International,Dubai,Hamad International,Doha
+NZ7014,Air New Zealand,Auckland Airport,Auckland,Sydney Airport,Sydney
+AF9614,Air France,Charles de Gaulle,Paris,Suvarnabhumi,Bangkok
+KL2204,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Charles de Gaulle,Paris
+ET9521,Ethiopian Airlines,Bole International,Addis Ababa,Hamad International,Doha
+UA3041,United Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco
+BA6353,British Airways,Heathrow,London,Charles de Gaulle,Paris
+ET5903,Ethiopian Airlines,Bole International,Addis Ababa,Hong Kong International,Hong Kong
+AZ2999,Alitalia,Leonardo da Vinci International,Rome,Charles de Gaulle,Paris
+AM7742,Aeroméxico,Benito Juárez International,Mexico City,O'Hare International,Chicago
+IB1590,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Charles de Gaulle,Paris
+SQ4603,Singapore Airlines,Changi,Singapore,Beijing Capital International,Beijing
+WN9919,Southwest Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco
+TG4562,Thai Airways,Suvarnabhumi,Bangkok,Changi,Singapore
+NH9522,All Nippon Airways,Haneda,Tokyo,Hong Kong International,Hong Kong
+NZ3240,Air New Zealand,Auckland Airport,Auckland,Sydney Airport,Sydney
+IB8384,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Charles de Gaulle,Paris
+AV2822,Avianca,El Dorado International,Bogotá,O'Hare International,Chicago
+AF5408,Air France,Charles de Gaulle,Paris,Frankfurt Airport,Frankfurt
+WN8861,Southwest Airlines,Los Angeles International,Los Angeles,Seattle-Tacoma International,Seattle
+IB2915,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Charles de Gaulle,Paris
+SA2908,South African Airways,O.R. Tambo International,Johannesburg,Charles de Gaulle,Paris
+NH9869,All Nippon Airways,Haneda,Tokyo,Incheon International,Seoul
+IB4045,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Beijing Capital International,Beijing
+EK9924,Emirates,Dubai International,Dubai,Hamad International,Doha
+AI2923,Air India,Indira Gandhi International,Delhi,Chhatrapati Shivaji International,Mumbai
+TG6044,Thai Airways,Suvarnabhumi,Bangkok,Changi,Singapore
+UA2198,United Airlines,Los Angeles International,Los Angeles,Vancouver International,Vancouver
+AM9204,Aeroméxico,Benito Juárez International,Mexico City,O'Hare International,Chicago
+EK3571,Emirates,Dubai International,Dubai,Hamad International,Doha
+DL9400,Delta Air Lines,John F. Kennedy International,New York,Hartsfield-Jackson Atlanta,Atlanta
+WN7532,Southwest Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco
+LH2767,Lufthansa,Frankfurt Airport,Frankfurt,O'Hare International,Chicago
+WN6914,Southwest Airlines,Los Angeles International,Los Angeles,Toronto Pearson,Toronto
