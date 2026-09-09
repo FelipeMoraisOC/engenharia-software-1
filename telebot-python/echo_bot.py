@@ -7,7 +7,7 @@ bot = telebot.TeleBot(API_TOKEN)
 def reply_hi(message):
   print(str(message))
   if message.text == 'eae vacilao':
-    bot.reply_to(message, "Que foi truta, ta me tirano?")
+    bot.reply_to(message, "Que foi trume t?")
   elif message.text == 'eae men':
     bot.reply_to(message, "eae meu parceiro")
   else:
